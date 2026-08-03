@@ -1,5 +1,5 @@
 ---
-id: rusEGE_7492
+id: rusEGE_7493
 subject: russian
 topic: punctuation_complex_sentence
 grade: 11
