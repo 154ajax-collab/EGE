@@ -1,6 +1,6 @@
 ---
 id: mathproEGE_74281
-subject: math
+subject: mathpro
 topic: vectors
 grade: 11
 exam_type: ege
