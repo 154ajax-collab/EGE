@@ -1,5 +1,5 @@
 ---
-id: GulEGE_74123
+id: GulOGE_74123
 subject: math
 topic: paper_formats
 grade: 9
